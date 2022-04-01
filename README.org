@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Rojan 
 
-* First name:
+* First name: Mahathir 
 
-* GitHub username:
+* GitHub username: @mahathirrojan 
 
 * Notes:
 
